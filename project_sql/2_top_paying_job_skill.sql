@@ -33,7 +33,7 @@ LIMIT 100
 
 ;
 
-[
+/*[
   {
     "job_id": 552322,
     "job_title": "Associate Director- Data Insights",
@@ -496,4 +496,4 @@ LIMIT 100
     "company_name": "Get It Recruit - Information Technology",
     "skills": "r"
   }
-]
+]*/

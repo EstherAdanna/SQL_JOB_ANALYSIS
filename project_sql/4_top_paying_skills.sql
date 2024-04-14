@@ -17,7 +17,7 @@ AND job_work_from_home = True
 AND salary_year_avg IS NOT NULL
 GROUP BY skills
 ORDER BY avg_salary  DESC 
-LIMIT 25;
+LIMIT 10;
 
 [
   {

@@ -12,6 +12,8 @@ GROUP BY skills_dim.skills
 ORDER BY demand_job_skills DESC 
 LIMIT 5;
 
+       
+
 "skills","demand_job_skills"
 "sql","92628"
 "excel","67031"
